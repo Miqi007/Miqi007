@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning web development at [Becode Liège](https://becode.org/fr/)
+⚡ It's very exciting !
 <!--
 **Miqi007/Miqi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
