@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning web development at [Becode Liège](https://becode.org/fr/) <br>
 ⚡ It's very exciting ! <br>
-⚽ I really like sports like football and climbing 🗻 
+⚽ I really like sports. I do football and climbing 🗻 
 <!--
 **Miqi007/Miqi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
